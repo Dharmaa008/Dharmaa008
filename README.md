@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Dharma 👋
 
-<!--
-**Dharmaa008/Dharmaa008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. candidate in Integrated Climate System Sciences at the University of Hamburg.
+Research Assistant in the Climate Modelling Group.
 
-Here are some ideas to get you started:
+**What I work with:**
+Python (pandas, NumPy, Matplotlib, xarray) · CDO · NetCDF · SQL (learning) · Power BI (learning) · ArcGIS · Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current project:**
+Thesis: Volcanic Forcing & Atlantic Multidecadal Variability — 8,000-year MPI-ESM1.2-LR simulations
+
+**Background:** Physics → Environmental Science → Climate Modelling
+**Interests:** Climate & sustainability data, ESG analytics, energy transition
+
+📍 Hamburg, Germany | Open to roles in climate/environmental data and sustainability analytics
